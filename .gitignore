@@ -1,0 +1,6 @@
+venv/
+venv_py311/
+__pycache__/
+*.pyc
+*.h5
+.DS_Store 
